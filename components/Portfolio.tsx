@@ -5,7 +5,7 @@ import { Menu, Github, Linkedin, Mail, ExternalLink, Calendar, Building } from '
 import Header from './Header'
 import HeroSection from './HeroSection'
 import ExperienceSection from './ExperienceSection'
-import ProjectsSection from './ProjectsSection.tsx'
+import ProjectsSection from './ProjectsSection'
 import SkillsSection from './SkillsSection'
 import ContactSection from './ContactSection'
 import Footer from './Footer'
@@ -25,4 +25,3 @@ const Portfolio = () => {
 }
 
 export default Portfolio
-
